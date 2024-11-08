@@ -1,0 +1,19 @@
+.paragraph_standard {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cooler_paragraph {
+    font-size: 24px;
+}
+
+#second_element {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth_element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
